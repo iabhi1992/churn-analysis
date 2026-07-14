@@ -1,0 +1,15 @@
+# Data files - often large and/or private. Never commit these.
+data/
+*.csv
+
+# Secrets - API keys, passwords, credentials
+.env
+
+# Python cluter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Virtual environment
+venv/
+.venv/
