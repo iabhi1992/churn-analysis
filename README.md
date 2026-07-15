@@ -8,4 +8,4 @@ Predicting which customers are likely to stop buying, using historical purchase 
 - `src/` - reusable python code
 
 ## Setup
-Install dependencies with `pip install -r requirements.txt`
+Install dependencies with `pip install -r requirements.txt(Python 3.9+)`
